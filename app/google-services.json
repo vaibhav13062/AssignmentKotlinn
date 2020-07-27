@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "583148050039",
+    "firebase_url": "https://assignment-6402e.firebaseio.com",
+    "project_id": "assignment-6402e",
+    "storage_bucket": "assignment-6402e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583148050039:android:77ac78e8644e5480085872",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583148050039-8vhcndo4bn450k11mfet1srrib287h2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYLUFIjYGztFA3gtjVgSExmtBqVkQ3Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583148050039-9id6b1fibbfcuub7ju13bfatcml2mqn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583148050039:android:ed8cc6db75405c2a085872",
+        "android_client_info": {
+          "package_name": "com.techstrum.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583148050039-8vhcndo4bn450k11mfet1srrib287h2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARYLUFIjYGztFA3gtjVgSExmtBqVkQ3Gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583148050039-9id6b1fibbfcuub7ju13bfatcml2mqn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
